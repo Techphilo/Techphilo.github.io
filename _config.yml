@@ -5,8 +5,16 @@ description: >-
 baseurl: ""           # leave empty for username.github.io
 url: "https://techphilo.github.io"
 
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 
+# Use Hydejack via remote_theme
+remote_theme: hydecorp/hydejack@v9
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  
 # Author settings
 author:
   name: "Iraj Ahangari"
