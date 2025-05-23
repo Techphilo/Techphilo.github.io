@@ -1,6 +1,8 @@
 ---
 layout: home
-title: "Welcome!"
-description: "A place for my views, papers, stories, and code."
+title: Welcome
 ---
-Hello! I’m **Iraj Ahangari**, and this is where I share…
+
+Hi! I’m Iraj Ahangari…  
+
+[→ About me](/about/)
